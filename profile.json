@@ -25,7 +25,7 @@
   "hero": {
     "greeting": "Привет, я",
     "name": "maylin",
-    "subtitle": "Делаю сайты небольшие полезные утилиты.",
+    "subtitle": "Делаю сайты и небольшие полезные утилиты.",
     "typing": true,
     "avatarShape": "cookie",
     "chips": [
@@ -44,7 +44,7 @@
     "items": [
       {
         "icon": "person",
-        "label": "Разработчик и дизайнер"
+        "label": "Разработчик"
       },
       {
         "icon": "code",
